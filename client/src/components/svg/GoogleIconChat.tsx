@@ -12,7 +12,7 @@ export default function Google({
   const width = size;
   return (
     <svg
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns=""""
       fill="currentColor"
       width="24px"
       height="24px"

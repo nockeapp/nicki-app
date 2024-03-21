@@ -25,7 +25,7 @@
   "bugs": {
     "url": "https://github.com/danny-avila/LibreChat/issues"
   },
-  "homepage": "https://librechat.ai",
+  "homepage": "https://www.nockeapp.com",
   "dependencies": {
     "@dicebear/collection": "^7.0.4",
     "@dicebear/core": "^7.0.4",

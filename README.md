@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://librechat.ai">
+  <a href="https://www.nockeapp.com">
     <img src="docs/assets/LibreChat.svg" height="256">
   </a>
   <h1 align="center">
-    <a href="https://librechat.ai">LibreChat</a>
+    <a href="https://www.nockeapp.com">Nicki - AI </a>
   </h1>
 </p>
 

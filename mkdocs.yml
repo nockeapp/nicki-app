@@ -1,19 +1,12 @@
 # Project information
-site_name: LibreChat
+site_name: Nicki AI 
 
-# Repository
-repo_name: danny-avila/LibreChat
-repo_url: https://github.com/danny-avila/LibreChat
-#edit_uri: ''
-edit_uri: blob/main/docs/
 
 #set use_directory_urls to false to make the HTML embed use the same relative paths as in GitHub
 use_directory_urls: false
 
 theme:
   name: material
-  logo: assets/LibreChat.svg
-  favicon: assets/favicon_package/favicon-32x32.png
 
   palette:
 
@@ -98,27 +91,3 @@ plugins:
       regex:
         - '.*\.(tmp|bin|tar)$'
     # https://github.com/apenwarr/mkdocs-exclude
-
-extra:
-  social:
-    - icon: fontawesome/brands/discord
-      link: https://discord.librechat.ai
-      name: Discord
-    - icon: fontawesome/brands/github
-      link: https://librechat.ai
-      name: GitHub
-    - icon: fontawesome/brands/youtube
-      link: https://yt.librechat.ai
-      name: YouTube
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.librechat.ai
-      name: LinkedIn
-    - icon: fontawesome/solid/feather
-      link: https://demo.librechat.cfd
-      name: Demo
-    - icon: fontawesome/solid/face-grin-beam
-      link: https://hf.librechat.ai
-      name: Hugging Face
-
-copyright:
-  © 2023 <a href="https://librechat.ai/" target="_blank" rel="noopener">LibreChat</a>

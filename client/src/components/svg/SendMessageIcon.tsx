@@ -3,7 +3,7 @@ import React from 'react';
 export default function SendMessageIcon() {
   return (
     <svg
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns=""""
       viewBox="0 0 16 16"
       fill="none"
       className="icon-sm m-1 md:m-0"

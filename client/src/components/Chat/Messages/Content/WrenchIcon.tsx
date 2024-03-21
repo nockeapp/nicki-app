@@ -14,7 +14,7 @@ export default function WrenchIcon() {
   return (
     <svg
       className={rotate ? 'rotate' : ''}
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns=""""
       xmlnsXlink="http://www.w3.org/1999/xlink"
       viewBox="0 0 24 24"
       width="24"

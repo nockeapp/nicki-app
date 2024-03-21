@@ -899,10 +899,10 @@ Uncomment to add a custom footer
 
 Uncomment and make empty "" to remove the footer
 
-```bash
-APP_TITLE=LibreChat
-CUSTOM_FOOTER="My custom footer"
-```
+bash
+APP_TITLE=
+CUSTOM_FOOTER=
+
 
 - **Birthday Hat:** Give the AI Icon a Birthday Hat 🥳
 

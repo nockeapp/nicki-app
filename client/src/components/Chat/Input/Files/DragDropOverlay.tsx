@@ -2,7 +2,7 @@ export default function DragDropOverlay() {
   return (
     <div className="absolute inset-0 flex flex-col items-center justify-center gap-2 bg-gray-200 opacity-80 dark:bg-gray-800 dark:text-gray-200">
       <svg
-        xmlns="http://www.w3.org/2000/svg"
+        xmlns=""""
         viewBox="0 0 132 108"
         fill="none"
         width="132"

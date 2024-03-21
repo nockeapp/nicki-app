@@ -7,7 +7,7 @@ export default function BingIcon({ size = 25 }) {
       height={size}
       viewBox="0 0 56 56"
       fill="none"
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns=""""
     >
       <g clipPath="url(#clip0_36_2239)">
         <path

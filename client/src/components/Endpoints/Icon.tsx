@@ -95,13 +95,13 @@ const Icon: React.FC<IconProps> = (props) => {
     [EModelEndpoint.azureOpenAI]: {
       icon: <AzureMinimalIcon size={size * 0.5555555555555556} />,
       bg: 'linear-gradient(0.375turn, #61bde2, #4389d0)',
-      name: 'ChatGPT',
+      name: 'Nicki AI',
     },
     [EModelEndpoint.openAI]: {
       icon: <GPTIcon size={size * 0.5555555555555556} />,
       bg:
         typeof model === 'string' && model.toLowerCase().includes('gpt-4') ? '#AB68FF' : '#19C37D',
-      name: 'ChatGPT',
+      name: 'Nicki AI',
     },
     [EModelEndpoint.gptPlugins]: {
       icon: <Plugin size={size * 0.7} />,
@@ -140,8 +140,8 @@ const Icon: React.FC<IconProps> = (props) => {
       bg:
         typeof model === 'string' && model.toLowerCase().includes('gpt-4')
           ? '#AB68FF'
-          : `rgba(0, 163, 255, ${button ? 0.75 : 1})`,
-      name: 'ChatGPT',
+          : `rgba(0, 16333, 255, ${button ? 0.75 : 1})`,
+      name: 'Nicki AI',
     },
     [EModelEndpoint.custom]: {
       icon: <CustomMinimalIcon size={size * 0.7} />,

@@ -1,7 +1,7 @@
 export enum FileSources {
   local = 'local',
   firebase = 'firebase',
-  openai = 'openai',
+  openai = 'Nicki AI',
   s3 = 's3',
 }
 

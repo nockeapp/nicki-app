@@ -11,7 +11,7 @@ export default function Clipboard() {
       className="h-4 w-4"
       height="1em"
       width="1em"
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns=""""
     >
       <path
         fillRule="evenodd"

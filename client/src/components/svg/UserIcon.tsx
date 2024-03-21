@@ -1,7 +1,7 @@
 export default function UserIcon() {
   return (
     <svg
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns=""""
       width="18"
       height="18"
       viewBox="0 0 24 24"

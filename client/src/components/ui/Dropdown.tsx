@@ -54,7 +54,7 @@ const Dropdown: FC<DropdownProps> = ({
             </span>
             <span className="pointer-events-none absolute inset-y-0 right-0 flex items-center pr-2">
               <svg
-                xmlns="http://www.w3.org/2000/svg"
+                xmlns=""""
                 fill="none"
                 viewBox="0 0 24 24"
                 strokeWidth="2"

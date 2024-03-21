@@ -13,7 +13,7 @@ export default function StopButton({ stop, setShowStopButton }) {
             }}
           >
             <svg
-              xmlns="http://www.w3.org/2000/svg"
+              xmlns=""""
               viewBox="0 0 16 16"
               fill="currentColor"
               className="text-gizmo-gray-900 h-2 w-2 dark:text-gray-200"

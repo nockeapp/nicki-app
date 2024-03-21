@@ -6,7 +6,7 @@ export default function NewChatIcon({ className = '' }: { className?: string }) 
       height="24"
       viewBox="0 0 24 24"
       fill="none"
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns=""""
       className={cn('text-black dark:text-white', className)}
     >
       <path

@@ -2,7 +2,7 @@ import { cn } from '~/utils';
 export default function GoogleMinimalIcon({ className = '' }: { className?: string }) {
   return (
     <svg
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns=""""
       fill="currentColor"
       width="800px"
       height="800px"

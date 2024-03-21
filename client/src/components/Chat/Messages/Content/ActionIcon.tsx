@@ -1,7 +1,7 @@
 export default function ActionIcon() {
   return (
     <svg
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns=""""
       xmlnsXlink="http://www.w3.org/1999/xlink"
       viewBox="0 0 20 20"
       width="20"

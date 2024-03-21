@@ -12,7 +12,7 @@ export default function Spinner({ className = 'm-auto', size = '1em' }) {
       className={cn(className, 'animate-spin text-center')}
       height={size}
       width={size}
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns=""""
     >
       <line x1="12" y1="2" x2="12" y2="6" />
       <line x1="12" y1="18" x2="12" y2="22" />

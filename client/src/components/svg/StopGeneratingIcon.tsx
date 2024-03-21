@@ -12,7 +12,7 @@ export default function StopGeneratingIcon({ className = '' }: { className?: str
       className={cn('h-3 w-3 text-gray-600 dark:text-gray-400', className)}
       height="1em"
       width="1em"
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns=""""
     >
       <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
     </svg>

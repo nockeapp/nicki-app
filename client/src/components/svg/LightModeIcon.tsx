@@ -12,7 +12,7 @@ export default function LightModeIcon() {
       className="h-4 w-4"
       height="1em"
       width="1em"
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns=""""
     >
       <circle cx="12" cy="12" r="5" />
       <line x1="12" y1="1" x2="12" y2="3" />

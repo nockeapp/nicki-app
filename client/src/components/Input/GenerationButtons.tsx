@@ -32,7 +32,7 @@ export default function GenerationButtons({ showPopover, opacityClass }: Generat
                 className="h-3 w-3 flex-shrink-0"
                 height="1em"
                 width="1em"
-                xmlns="http://www.w3.org/2000/svg"
+                xmlns=""""
               >
                 <polyline points="1 4 1 10 7 10"></polyline>
                 <polyline points="23 20 23 14 17 14"></polyline>

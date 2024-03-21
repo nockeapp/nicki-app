@@ -10,7 +10,7 @@ export default function Blocks({ className = '' }: { className?: string }) {
       strokeWidth="2"
       strokeLinecap="round"
       strokeLinejoin="round"
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns=""""
       className={cn('lucide lucide-blocks', className)}
     >
       <rect width="7" height="7" x="14" y="3" rx="1" />

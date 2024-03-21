@@ -38,7 +38,7 @@ export default function SiblingSwitch({
           className="h-3 w-3"
           height="1em"
           width="1em"
-          xmlns="http://www.w3.org/2000/svg"
+          xmlns=""""
         >
           <polyline points="15 18 9 12 15 6" />
         </svg>
@@ -61,7 +61,7 @@ export default function SiblingSwitch({
           className="h-3 w-3"
           height="1em"
           width="1em"
-          xmlns="http://www.w3.org/2000/svg"
+          xmlns=""""
         >
           <polyline points="9 18 15 12 9 6" />
         </svg>

@@ -6,7 +6,7 @@ export default function BirthdayIcon({ className = '' }) {
     <svg
       version="1.1"
       viewBox="0 0 233.33 290"
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns=""""
       xmlnsXlink="http://www.w3.org/1999/xlink"
       className={cn('h-14 w-14', className)}
     >

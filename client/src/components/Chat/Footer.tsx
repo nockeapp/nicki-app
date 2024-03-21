@@ -37,8 +37,8 @@ export default function Footer() {
         config.customFooter
       ) : (
         <>
-          <a href="https://librechat.ai" target="_blank" rel="noreferrer" className="underline">
-            {config?.appTitle || 'LibreChat'} v0.6.10
+          <a href="https://www.nockeapp.com" target="_blank" rel="noreferrer" className="underline">
+            {config?.appTitle || ''} 
           </a>
           {' - '} {localize('com_ui_new_footer')}
         </>

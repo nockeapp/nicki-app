@@ -22,7 +22,7 @@ export default function DialogImage({ src = '', width = 1920, height = 1080 }) {
               className="h-5 w-5"
               height="1em"
               width="1em"
-              xmlns="http://www.w3.org/2000/svg"
+              xmlns=""""
             >
               <line x1="18" y1="6" x2="6" y2="18" />
               <line x1="6" y1="6" x2="18" y2="18" />

@@ -91,7 +91,7 @@ function SelectDropDownPop({
                   className="h-4 w-4  text-gray-400"
                   height="1em"
                   width="1em"
-                  xmlns="http://www.w3.org/2000/svg"
+                  xmlns=""""
                   style={showAbove ? { transform: 'scaleY(-1)' } : {}}
                 >
                   <polyline points="6 9 12 15 18 9"></polyline>
